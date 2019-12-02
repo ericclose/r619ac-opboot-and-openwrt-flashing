@@ -17,4 +17,4 @@
 | `opboot-p2w-r619ac-nor-v1.0.9.img` |1eec34ed68043cc601b9a0225a1a3502|OpBoot 文件，在 OpBoot 里更新刷入|[链接](https://github.com/ericclose/R619AC-OpBoot-and-OpenWrt-flashing/raw/master/128MB/opboot-p2w-r619ac-nor-v1.0.9.img)|
 | `openwrt-ipq40xx-p2w_r619ac-128MB-squashfs-nand-factory.ubi` |0083bbf4b6a5eaf1beb896518f4d6057|OpenWrt 固件，在 OpBoot 里刷入|[链接](https://github.com/ericclose/R619AC-OpBoot-and-OpenWrt-flashing/raw/master/128MB/openwrt-ipq40xx-p2w_r619ac-128MB-squashfs-nand-factory.ubi)|
 
-更新说明: https://ericclose.github.io/R619AC-OpBoot-and-OpenWrt-flashing.html#toc-heading-15
+更新说明: https://ericclose.github.io/R619AC-OpBoot-and-OpenWrt-flashing.html#toc-heading-16
