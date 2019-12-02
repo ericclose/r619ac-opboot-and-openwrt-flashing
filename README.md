@@ -5,3 +5,16 @@
 | `openwrt-ipq40xx-R9.11.22-unlock-p2w_r619ac-squashfs-nand-factory.bin` |d3e8d29d1a37872f37f9070fabb9a7a2|OpenWrt 过渡包，在竞斗云官方固件更新后刷入|[链接](https://github.com/ericclose/R619AC-OpBoot-and-OpenWrt-flashing/raw/master/1/openwrt-ipq40xx-R9.11.22-unlock-p2w_r619ac-squashfs-nand-factory.bin)|
 | `opboot-p2w-r619ac-flash-v1.0.8.bin` |c3c0efd25aa18ee505debb3a90d75fe3|OpBoot文件，刷入过渡包后刷入|[链接](https://github.com/ericclose/R619AC-OpBoot-and-OpenWrt-flashing/raw/master/2/opboot-p2w-r619ac-flash-v1.0.8.bin)|
 | `openwrt-ipq40xx-R9.11.23-p2w_r619ac-squashfs-nand-sysupgrade.bin` |856e7571263398a8c976cbf721ac821c|刷完OpBoot后，最后刷入的OpenWrt固件|[链接](https://github.com/ericclose/R619AC-OpBoot-and-OpenWrt-flashing/raw/master/3/openwrt-ipq40xx-R9.11.23-p2w_r619ac-squashfs-nand-sysupgrade.bin)|
+
+刷机教程链接: https://ericclose.github.io/R619AC-OpBoot-and-OpenWrt-flashing.html
+
+
+# 后续更新（OpBoot 1.0.9 + 128 MB OpenWrt）
+
+|文件名|md5sum|描述|下载|
+|:-|:-|:-|:-|
+| `opboot-p2w-r619ac-flash-v1.0.9.bin` |c7d6d14b04d055bf27dad9d9c5d58c7d|OpBoot 文件，用命令刷入|[链接](https://github.com/ericclose/R619AC-OpBoot-and-OpenWrt-flashing/raw/master/128MB/opboot-p2w-r619ac-flash-v1.0.9.bin)|
+| `opboot-p2w-r619ac-nor-v1.0.9.img` |1eec34ed68043cc601b9a0225a1a3502|OpBoot 文件，在 OpBoot 里更新刷入|[链接](https://github.com/ericclose/R619AC-OpBoot-and-OpenWrt-flashing/raw/master/128MB/opboot-p2w-r619ac-nor-v1.0.9.img)|
+| `openwrt-ipq40xx-p2w_r619ac-128MB-squashfs-nand-factory.ubi` |0083bbf4b6a5eaf1beb896518f4d6057|OpenWrt 固件，在 OpBoot 里刷入|[链接](https://github.com/ericclose/R619AC-OpBoot-and-OpenWrt-flashing/raw/master/128MB/openwrt-ipq40xx-p2w_r619ac-128MB-squashfs-nand-factory.ubi)|
+
+更新说明: https://ericclose.github.io/R619AC-OpBoot-and-OpenWrt-flashing.html#toc-heading-15
